@@ -1,36 +1,120 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/05/00/17/35/360_F_500173572_iCjLwll9VkTHc6F6G85fy0KRPQK3ndSs.jpg)
-<h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh-04&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh-04" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/shivansh__04" target="blank"><img src="https://img.shields.io/twitter/follow/shivansh__04?logo=twitter&style=for-the-badge" alt="shivansh__04" /></a> </p>
+# ⚡ SHIVANSH GUPTA
 
-- 🔭 I’m currently working on **Project's**
+### Full-Stack Developer · Competitive Programmer · CSE @ RKGIT, Ghaziabad
 
-- 🌱 I’m currently learning **React Native**
+<img src="https://komarev.com/ghpvc/?username=shivansh-04&label=Profile+Views&color=0e75b6&style=flat-square" />
+<img src="https://img.shields.io/badge/MERN-Stack-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/GSoC-Aspirant_2025-orange?style=flat-square&logo=google" />
+<img src="https://img.shields.io/badge/Open_to-Collaborate-blueviolet?style=flat-square" />
 
-- 👯 I’m looking to collaborate on **projects for work**
+</div>
 
-- 💬 Ask me about **Java, C++, Python**
+---
 
-- 📫 How to reach me **shivanshgupta0987@gmail.com**
+## 🗡️ About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivansh__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh__04" height="30" width="40" /></a>
-<a href="https://instagram.com/its_dev__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_dev__04" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/its_dev_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_dev_04" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/its_dev__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_dev__04" height="30" width="40" /></a> -->
-<!-- <a href="https://www.topcoder.com/members/shivansh-04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="shivansh-04" height="30" width="40" /></a> -->
-</p>
+> "Code is my jutsu. I build things, break things, and ship things — mostly in that order."
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a passionate **MERN stack developer** and **competitive programmer** from India, currently pursuing
+Computer Science Engineering at **Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad**.
+I love turning ideas into real-world applications and thrive at the intersection of clean code and
+great user experience.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-04&show_icons=true&locale=en&layout=compact" alt="shivansh-04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh-04&show_icons=true&locale=en" alt="shivansh-04" /></p>
+## 🎯 Current Status
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-04&" alt="shivansh-04" /></p>
+- 🔭 Building **Portfolio V2** — a manga-style SPA at [iamshivansh.in](https://iamshivansh.in)
+- 🌱 Learning **React Native** for cross-platform mobile development
+- 🏆 Preparing for **GSoC 2025** — actively contributing to open-source
+- ⚔️ Grinding **DSA** daily on LeetCode, CodeChef & GeeksForGeeks
+- 👯 Open to collaborate on exciting **MERN / full-stack projects**
+- 💬 Ask me about **Java, C++, Python, JavaScript, React**
+- 📫 Reach me at **shivanshgupta0987@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧠 **MindSpace** | Mental health platform with journaling & mood tracking | React, Node, MongoDB |
+| 🛡️ **SurakshaSetu** | Safety network & emergency alert system | MERN Stack |
+| 📊 **Sorting Visualizer** | Real-time DSA algorithm visualization | React, Framer Motion |
+| ☁️ **Image Upload & Storage** | Cloud media storage microservice | Node, Express, Cloudinary |
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🥊 **Smart India Hackathon (SIH)** — Participant
+- ⚡ **Binary Hacks 2.0** — Participant
+- 📜 Certified via **Coursera** & **Apna College**
+- 🌐 Active on **LeetCode · CodeChef · GFG · HackerRank**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-04&show_icons=true&theme=tokyonight&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-04&layout=compact&theme=tokyonight&locale=en" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-04&theme=tokyonight" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@shivansh__04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivansh__04)
+[![Instagram](https://img.shields.io/badge/@its_dev__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_dev__04)
+[![Portfolio](https://img.shields.io/badge/iamshivansh.in-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://iamshivansh.in)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshgupta0987@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
+
+  <br/>
+
+  <em>⚡ "Every expert was once a beginner. Every pro was once an amateur." ⚡</em>
+</div>
