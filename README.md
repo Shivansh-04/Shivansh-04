@@ -88,8 +88,8 @@ great user experience.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-04&show_icons=true&theme=tokyonight&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-04&layout=compact&theme=tokyonight&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamshivansh&show_icons=true&theme=tokyonight&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshivansh&layout=compact&theme=tokyonight&locale=en" height="165" />
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@ great user experience.
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/@shivansh__04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivansh__04)
-[![Instagram](https://img.shields.io/badge/@its_dev__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_dev__04)
+[![Instagram](https://img.shields.io/badge/@iamshivansh.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamshivansh.dev)
 [![Portfolio](https://img.shields.io/badge/iamshivansh.in-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://iamshivansh.in)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshgupta0987@gmail.com)
 
