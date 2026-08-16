@@ -87,10 +87,10 @@ great user experience.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshivansh&show_icons=true&theme=tokyonight&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshivansh&layout=compact&theme=tokyonight&locale=en" height="165" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivansh-04&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-04&theme=tokyonight" />
