@@ -270,9 +270,6 @@ Lightweight service for **uploading, storing and serving images** through Cloudi
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-04&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff2e97&area=true&area_color=7b2ff7&hide_border=true" width="100%"/>
 
 ### 🐍 Contribution Snake
 
