@@ -179,18 +179,6 @@ Manga-style **single page app** with a spatial-canvas redesign, smooth animation
 `Python` `Agentic AI` `Remote Sensing`
 
 </td>
-<td width="50%" valign="top">
-
-### ⌚ Hamsa Lifestyle
-<img src="https://img.shields.io/badge/FREELANCE-7b2ff7?style=flat-square&labelColor=0d1117"/>
-
-**E-commerce site** for a watch retailer with a product catalogue and a simple **WhatsApp checkout flow** for local customers.
-
-`React` `Tailwind` `WhatsApp`
-
-</td>
-</tr>
-<tr>
 <td colspan="2" valign="top">
 
 ### ☁️ Image Upload & Storage Microservice
