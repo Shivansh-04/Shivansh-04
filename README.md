@@ -262,10 +262,6 @@ Lightweight service for **uploading, storing and serving images** through Cloudi
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shivansh-04&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
-<br/><br/>
-
 ### 🏙️ 3D Contribution City
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
